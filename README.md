@@ -1,1 +1,1 @@
-# registr-hypotheses
+# registre-hypotheses
